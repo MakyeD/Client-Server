@@ -1,2 +1,2 @@
 # Client-Server
-Client-Server interaction
+Simple client-server interaction
